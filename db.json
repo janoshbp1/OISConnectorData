@@ -1,0 +1,37 @@
+{
+  "DataPointMap": {
+    "DateField": "dateTime",
+    "DataPointFields": {
+    "textField": 5432,
+    "textField2": 421
+    }
+  },
+  "FieldMap": {
+    "_id": "5caf49aa110d69fb26eaa388",
+	"owner": "jhollenb",
+	"roles": [],
+	"_vid": 0,
+	"_fvid": 0,
+	"state": "submitted",
+	"data": {
+		"textField": "Test Submission Text Field 1",
+		"textField2": "Test Submission Text Field 2",
+		"dateTime": "2019-04-11T16:00:00.000Z"
+	},
+	"access": [],
+	"metadata": {
+		"timezone": "America/New_York",
+		"offset": -240,
+		"referrer": "https://oiswebdev.mosaicco.com/EForms/",
+		"browserName": "Netscape",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.127 Safari/537.36",
+		"pathName": "/EForms/421",
+		"onLine": true,
+		"assignmentId": "421"
+	},
+	"form": "5c3f9784e93d800cc3c34f9c",
+	"externalIds": [],
+	"created": "2019-04-11T14:05:30.452Z",
+	"modified": "2019-04-11T14:05:30.452Z"
+  }
+}
