@@ -2,8 +2,8 @@
   "DataPointMap": {
     "DateField": "dateTime",
     "DataPointFields": {
-    "textField": 5432,
-    "textField2": 
+    "textField": ,
+    "textField2": 45 
     }
   },
   "FieldMap": {
