@@ -3,7 +3,7 @@
     "DateField": "dateTime",
     "DataPointFields": {
     "textField": 5432,
-    "textField2": 421
+    "textField2": 
     }
   },
   "FieldMap": {
