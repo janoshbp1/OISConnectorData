@@ -1,37 +1,69 @@
 {
-  "DataPointMap": {
-    "DateField": "dateTime",
-    "DataPointFields": {
-    "textField": 477, 
-    "textField2": 45 
-    }
-  },
-  "FieldMap": {
-    "_id": "5caf49aa110d69fb26eaa388",
-	"owner": "jhollenb",
-	"roles": [],
-	"_vid": 0,
-	"_fvid": 0,
-	"state": "submitted",
-	"data": {
-		"textField": "Test Submission Text Field 11",
-		"textField2": "Test Submission Text Field 2",
-		"dateTime": "2019-04-11T16:00:00.000Z"
+	"DataPointMap": {
+		"FormPath": "sfmsupersimplecsa",
+		"ContextMappings": [{
+			"DateField": "panel4EditGrid3[0].ReadingDateTime",
+			"DataPointFields": {
+				"panel4EditGrid3[0].LevelReading": 245766
+			}
+		}]
 	},
-	"access": [],
-	"metadata": {
-		"timezone": "America/New_York",
-		"offset": -240,
-		"referrer": "https://oiswebdev.mosaicco.com/EForms/",
-		"browserName": "Netscape",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.127 Safari/537.36",
-		"pathName": "/EForms/421",
-		"onLine": true,
-		"assignmentId": "421"
-	},
-	"form": "5c3f9784e93d800cc3c34f9c",
-	"externalIds": [],
-	"created": "2019-04-11T14:05:30.452Z",
-	"modified": "2019-04-11T14:05:30.452Z"
-  }
+	"FieldMap": {
+		"_id": "5d000253110d69a6c9eaa3bc",
+		"owner": "jhollenb",
+		"roles": [],
+		"_vid": 0,
+		"_fvid": 0,
+		"state": "submitted",
+		"data": {
+			"siteLocation": "",
+			"personConductingExam": "",
+			"DateTime": "2019-06-11T19:34:15.000Z",
+			"shift": "",
+			"panel4EditGrid2": [],
+			"panel4EditGrid3": [{
+					"SpillwayID": "31",
+					"LightingOk": "yes",
+					"WalkwayOk": "yes",
+					"notes": "all good",
+					"ReadingDateTime": "2019-05-21T15:30:28+00:00",
+					"LevelReading": 151
+				},
+				{
+					"SpillwayID": "32",
+					"LightingOk": "yes",
+					"WalkwayOk": "yes",
+					"notes": "also all good",
+					"ReadingDateTime": "2019-05-21T15:30:28+00:00",
+					"LevelReading": 100
+				}
+			],
+			"panel4EditGrid4": [],
+			"panel4EditGrid5": [],
+			"panel4EditGrid6": [],
+			"panel4EditGrid7": [],
+			"panel4EditGrid9": []
+		},
+		"access": [],
+		"metadata": {
+			"timezone": "America/New_York",
+			"offset": -240,
+			"referrer": "https://oiswebdev.mosaicco.com/EForms/",
+			"browserName": "Netscape",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.136 Safari/537.36",
+			"pathName": "/EForms/505",
+			"onLine": true,
+			"assignmentId": "505",
+			"entityMap": {
+				"panel4EditGrid3": [
+					245621,
+					245786
+				]
+			}
+		},
+		"form": "5c62ff031fab0bf8193c47a3",
+		"externalIds": [],
+		"created": "2019-06-11T19:34:43.177Z",
+		"modified": "2019-06-11T19:34:43.178Z"
+	}
 }
