@@ -6,6 +6,12 @@
 			"DataPointFields": {
 				"panel4EditGrid3[0].LevelReading": 245766,
 				"panel4EditGrid3[1].LevelReading": 245768
+			},
+			{
+			"DateField": "panel4EditGrid3[1].ReadingDateTime",
+			"DataPointFields": {
+				"panel4EditGrid3[0].LevelReading": 247766,
+				"panel4EditGrid3[1].LevelReading": 247768
 			}
 		}]
 	},
@@ -35,7 +41,7 @@
 					"LightingOk": "yes",
 					"WalkwayOk": "yes",
 					"notes": "also all good",
-					"ReadingDateTime": "2019-05-21T15:30:28+00:00",
+					"ReadingDateTime": "2019-05-21T15:30:28+00:00ff",
 					"LevelReading": 100
 				}
 			],
