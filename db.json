@@ -6,7 +6,8 @@
 			"DataPointFields": {
 				"panel4EditGrid3[0].LevelReading": 245766,
 				"panel4EditGrid3[1].LevelReading": 245768
-			},
+			}
+		},
 			{
 			"DateField": "panel4EditGrid3[1].ReadingDateTime",
 			"DataPointFields": {
